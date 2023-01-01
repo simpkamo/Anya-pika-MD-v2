@@ -16,12 +16,12 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
              global.ownertag = '12703808627' // Tag number //
              global.linkz = "https://wa.me/+12703808627" // Theme url which will be displayed on whatsapp //
              global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-             global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
+             global.botscript = 'https://github.com/PNCT-Association/Anya-pika-MD-v2' // Script link //
              global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-             global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
+             global.author = "POTATO" // sticker watermark author //
              actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
              global.premium = ['12703808627'] // premium numbers //
-             global.headerText = "Anya by Pika" // text for header of menus //
+             global.headerText = "Anya by The Association" // text for header of menus //
              global.waterMark = "×͜× NCT-Association™ ✓" // Your own watermark //
 
 global.prefa = ['/','-']
@@ -32,8 +32,8 @@ name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
 name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `𓄂⍣⃝NCT-Aㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
+footer2 = `NCT-Λㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
