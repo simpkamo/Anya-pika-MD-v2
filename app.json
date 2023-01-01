@@ -1,7 +1,7 @@
 {
   "name": "Anya-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.COM/Pika-pro/Anya-pika-MD-V2",
+  "repository": "https://github.COM/PNCR-Association/Anya-pika-MD-V2",
   "logo": "https://i.pinimg.com/236x/80/09/2e/80092ec2f4b1937aeea647e56dd7800f.jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
