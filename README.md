@@ -58,7 +58,7 @@
 
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/PikaBotz/Anya-pika-MD-v2
+git clone https://github.com/NCT-Association/Anya-pika-MD-v2
 cd Anya-pika-MD-v2
 
 npm start
@@ -75,7 +75,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/PikaBotz/Anya-pika-MD-v2
+git clone https://github.com/NCT-Association/Anya-pika-MD-v2
 cd Anya-pika-MD-v2
 npm start
 ```
@@ -87,7 +87,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/PikaBotz/Anya-pika-MD-v2
+git clone https://github.com/NCT-Association/Anya-pika-MD-v2
 cd Anya-pika-MD-v2
 npm start
 ```
