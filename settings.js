@@ -7,11 +7,11 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
              //--------Owner & vcard--------\\
              global.botname = " ×፝֟͜×" 
              global.ownernumber = ['27788426353'] // Owner number //
-             global.vcardowner = ['27788426553'] // vcard owner number //
+             global.vcardowner = ['27788426353'] // vcard owner number //
              global.ownername = "༒⃝×፝֟͜×•𝐒𝐢𝐌𝐩_𝐤𝐀𝐦𝐎•∆᭄" // Owner name //
-             global.ytname = "YT: ONYXPIKA" // Yt chanel name //
+             global.ytname = "YT: kamo" // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : simpkamo" // Github or insta name //
-             global.location = "India, Assam, Dibrugarh" // Location //
+             global.location = "South Africa, Johannesburg, Soweto" // Location //
              global.owner = ['27788426353']
              global.ownertag = '27788426353' // Tag number //
              global.linkz = "https://wa.me/+27788426353" // Theme url which will be displayed on whatsapp //
@@ -21,10 +21,10 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
              global.author = " ×፝֟͜×" // sticker watermark author //
              actiontitle = '࿙ ×፝֟͜×࿚' // text who displays on the top of welcome and left message //
              global.premium = ['27788426353'] // premium numbers //
-             global.headerText = " ×፝֟͜× by SimPKamO  " // text for header of menus //
+             global.headerText = " ×፝֟͜× by SimpKamO  " // text for header of menus //
              global.waterMark = " ×፝֟͜×™ ✓" // Your own watermark //
 
-global.prefa = ['/','-']
+global.prefa = ['/']
 
 //--------Random bot name for Info section--------\\
 name16 = " ×፝֟͜×"
